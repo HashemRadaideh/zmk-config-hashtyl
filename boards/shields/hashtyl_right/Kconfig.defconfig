@@ -1,6 +1,6 @@
-if SHIELD_HASHTYL_RIGHT
+if SHIELD_HASHTYL_LEFT || SHIELD_HASHTYL_RIGHT
 
-config ZMK_KEYBOARD_NAME
-    default "hashtyl_right"
+config ZMK_SPLIT
+    default y
 
 endif
