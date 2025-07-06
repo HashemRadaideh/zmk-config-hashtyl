@@ -9,6 +9,14 @@
 #include <dt-bindings/zmk/bt.h>
 
 / {
+  chosen {
+    zmk,kscan = &kscan0;
+    zmk,physical-layout = &physical_layout0;
+  };
+  wired_split {
+    compatible = "zmk,wired-split";
+    device = <&pro_micro_serial>;
+  };
   keymap {
     compatible = "zmk,keymap";
     default_layer {
