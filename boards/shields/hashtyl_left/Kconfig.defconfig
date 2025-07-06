@@ -1,0 +1,6 @@
+if SHIELD_HASHTYL_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "hashtyl_left"
+
+endif
