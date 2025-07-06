@@ -1,0 +1,6 @@
+if SHIELD_HASHTYL_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
