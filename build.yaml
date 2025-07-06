@@ -1,5 +1,6 @@
 ---
 include:
   - board: nice_nano_v2
+    shield: hashtyl_right
   - board: nice_nano_v2
-    shield: hashtyl
+    shield: hashtyl_left
