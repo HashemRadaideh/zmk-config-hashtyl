@@ -1,0 +1,9 @@
+---
+file_format: '1'
+id: hashtyl
+name: Hashtyl
+type: shield
+url: https://github.com/HashemRadaideh/zmk-config-hashtyl
+requires: [pro_micro]
+features: [keys]
+siblings: [hashtyl_left, hashtyl_right]
