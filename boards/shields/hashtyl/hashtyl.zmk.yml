@@ -4,6 +4,6 @@ id: hashtyl
 name: Hashtyl
 type: shield
 url: https://github.com/HashemRadaideh/zmk-config-hashtyl
-requires: [pro_micro]
+requires: [nice_nano_v2]
 features: [keys]
 siblings: [hashtyl_left, hashtyl_right]
